@@ -2,7 +2,7 @@
 
 A Flutter application that generates random word combinations and allows users to create custom word pairs with a beautiful, intuitive interface.
 
-![App Screenshot](https://via.placeholder.com/400x800/2E7D32/FFFFFF?text=Random+Word+Generator)
+![App Screenshot](image1.jpg)
 *Example of the app interface*
 
 ## Features
@@ -27,7 +27,7 @@ A Flutter application that generates random word combinations and allows users t
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/StevanusAndika/startupnamegenerator
 cd random_word_generator
 ```
 
@@ -134,15 +134,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
-![Main Screen](image1.jpeg)
-![Main Screen](image2.jpeg)
-![Main Screen](image3.jpeg)
-![Main Screen](image4.jpeg)
-![Main Screen](image5.jpeg)
-![Main Screen](image6.jpeg)
-![Main Screen](image7.jpeg)
-![Main Screen](image8.jpeg)
-![Main Screen](image9.jpeg)
+![Main Screen](image1.jpg)
+![Main Screen](image2.jpg)
+![Main Screen](image3.jpg)
+![Main Screen](image4.jpg)
+![Main Screen](image5.jpg)
+![Main Screen](image6.jpg)
+![Main Screen](image7.jpg)
+![Main Screen](image8.jpg)
+![Main Screen](image9.jpg)
 ## Support
 
 If you encounter any problems or have suggestions, please open an issue on the GitHub repository.
