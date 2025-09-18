@@ -2,7 +2,7 @@
 
 A Flutter application that generates random word combinations and allows users to create custom word pairs with a beautiful, intuitive interface.
 
-![App Screenshot](image1.jpg)
+
 *Example of the app interface*
 
 ## Features
@@ -28,7 +28,7 @@ A Flutter application that generates random word combinations and allows users t
 1. Clone the repository:
 ```bash
 git clone https://github.com/StevanusAndika/startupnamegenerator
-cd random_word_generator
+cd startupnamegenerator
 ```
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ flutter run
 2. Scroll down to load more suggestions
 3. Tap the heart icon to save any word you like
 
-![Generation Demo](https://via.placeholder.com/400x800/2E7D32/FFFFFF?text=Generation+Demo)
+
 
 ### Creating Custom Words
 
@@ -134,15 +134,42 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
-![Main Screen](image1.jpg)
-![Main Screen](image2.jpg)
-![Main Screen](image3.jpg)
-![Main Screen](image4.jpg)
-![Main Screen](image5.jpg)
-![Main Screen](image6.jpg)
-![Main Screen](image7.jpg)
-![Main Screen](image8.jpg)
-![Main Screen](image9.jpg)
+<div align="center">
+  <img src="image1.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image2.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image3.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image4.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image5.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image6.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image7.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image8.jpg" alt="Main Screen" width="400">
+</div>
+
+<div align="center">
+  <img src="image9.jpg" alt="Main Screen" width="400">
+</div>
+
 ## Support
 
 If you encounter any problems or have suggestions, please open an issue on the GitHub repository.
